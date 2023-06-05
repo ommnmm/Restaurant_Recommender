@@ -3,10 +3,10 @@ Recommender system that uses collaborative filtering to make targeted recommenda
 
 
 
-Project code: restaurant_recommender.ipynb
-
-Project paper: project_paper_restaurant_recommender_collaborative_filtering.pdf
-
+**Project code: restaurant_recommender.ipynb
+**
+**Project paper: project_paper_restaurant_recommender_collaborative_filtering.pdf
+**
 
 
 Abstract
